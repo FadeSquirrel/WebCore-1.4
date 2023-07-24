@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "TTLakes";
+    src: url(../fontStyles/TTLakes/TTLakes-Regular.woff) format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #1B1C21;
+    font-family: 'TTLakes';
+    font-size: 14px;
+    font-style: normal;
+}
